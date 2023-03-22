@@ -61,7 +61,7 @@ The Linux Kernel Stats repository was developed on a Linux-based operating syste
 ## How to run the scripts   
 #### Clone / Download
 ##### Step 1
-[A] To clone the Linux Kernel Stable Tree, make a folder named "linux-stable" in the home location : home/usernameclone the repo in the folder "linux-stable" using ``` https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git ```. This will download the current kernel source repository.
+[A] To clone the Linux Kernel Stable Tree, make a folder named "linux-stable" in the home location : home/usernameclone the repo in the folder "linux-stable" using ```https://kernel.googlesource.com/pub/scm/linux/kernel/git/stable/linux.git```. This will download the current kernel source repository.
 
 [B] Additionaly, you will need to clone the following in the home directory: 
    * ``` git clone https://kernel.googlesource.com/pub/scm/linux/kernel/git/xiang/erofs-utils.git ```
