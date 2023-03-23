@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Script for git log files for Polling for all linux versions 
+# Script for git log files for resource manipulation for all linux versions 
 # Contributor: duttabhishek0@gmail.com
 
 if [ ! -d ~/linux-kernel-stats/data_dir/resource_manipulation_data_dump/ ];then
